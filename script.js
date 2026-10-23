@@ -62,7 +62,7 @@ for (let i = 0; i < 5; i++) {
         x = x + ", ";
     }
 }
-console.log(x);
+console.log("Numbers: " + x);
 // STEP 6: Calculate the sum of all numbers.
 //         Use a for loop to add each number to a running total.
 //         Print: console.log("Sum: " + sum)
